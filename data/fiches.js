@@ -66,7 +66,12 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
-
+{
+    titre: "Les addicts du ping pong",
+    categorie: "Pause",
+    texte: "N'oubliez pas l'heure en se faisant emporter par les parties de ping pong durant les 15min de recrées, c'est vraiment addictif.",
+    auteur: "ABOUDA Amine-étudiant"
+  },
 
   // ===== FIN DE VOS FICHES =====
 
