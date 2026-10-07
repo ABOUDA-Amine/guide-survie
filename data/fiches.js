@@ -73,6 +73,13 @@ const FICHES = [
     auteur: "ABOUDA Amine-étudiant"
   },
 
+ {
+    titre: "Rakcha",
+    categorie: "Repos",
+    texte: "Il faut toujours penser à se reposer. Erte7 w taka",
+    auteur: "Malouche Med Amine-étudiant"
+  },
+
   // ===== FIN DE VOS FICHES =====
 
 ];
