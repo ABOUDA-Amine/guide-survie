@@ -76,7 +76,7 @@ const FICHES = [
  {
     titre: "Rakcha",
     categorie: "Repos",
-    texte: "Il faut toujours penser à se reposer. Erte7 w taka",
+    texte: "Il faut toujours penser à se reposer. Erte7 erte7 w taka",
     auteur: "Malouche Med Amine-étudiant"
   },
 
