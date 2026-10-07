@@ -80,6 +80,12 @@ const FICHES = [
     auteur: "Malouche Med Amine-étudiant"
   },
 
+  {
+    titre: "Conseil de Master Wu",
+    categorie: "Procastination",
+    texte: "Il ne faut jamais remettre le travail d'aujourd'hui à demain.",
+    auteur: "Hatem Bouslama-étudiant"
+  },
   // ===== FIN DE VOS FICHES =====
 
 ];
