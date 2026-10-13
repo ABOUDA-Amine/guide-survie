@@ -1,6 +1,6 @@
 /* =============================================================
    LES FICHES DU GUIDE
-
+ 
    Chaque fiche est un bloc entre accolades { }, séparé du suivant
    par une virgule. Pour en ajouter une, copiez ce modèle :
 
@@ -86,6 +86,12 @@ const FICHES = [
     texte: "Il ne faut jamais remettre le travail d'aujourd'hui à demain.",
     auteur: "Hatem Bouslama-étudiant"
   },
-  // ===== FIN DE VOS FICHES =====
+  {
+    titre: "Le dauphin Chagour",
+    categorie: "Les dangers de l'Ego",
+    texte: "Abouda a tout le temps raison",
+    auteur: "Chagour Hedi-étudiant"
+  }, 
+ // ===== FIN DE VOS FICHES =====
 
 ];
