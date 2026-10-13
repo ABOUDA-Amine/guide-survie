@@ -89,7 +89,7 @@ const FICHES = [
   {
     titre: "Le dauphin Chagour",
     categorie: "Les dangers de l'Ego",
-    texte: "Abouda a tout le temps raison",
+    texte: "Abouda a toutt le temps raison",
     auteur: "Chagour Hedi-étudiant"
   }, 
  // ===== FIN DE VOS FICHES =====
