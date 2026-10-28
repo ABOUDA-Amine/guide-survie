@@ -58,6 +58,12 @@ const FICHES = [
     auteur: "Hatem Bouslama"
   },
 
+  {
+    titre: "Jeux vidéos",
+    categorie: "Bons plans",
+    texte: "Pensez à faire des cadeaux sur steam afin d'obtenir des points de compte.",
+    auteur: "Hatem Bouslama"
+  },
 
   {
     titre: "Le premier rang n'est pas un piège",
