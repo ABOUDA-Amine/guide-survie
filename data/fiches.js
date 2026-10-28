@@ -50,6 +50,18 @@ const FICHES = [
     texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Les absences",
+    categorie: "Discipline",
+    texte: "N'oubliez pas que vous disposez d'un nombre d'absence limité pour chaque matiere, evitez donc l'absentéisme .",
+    auteur: "ABOUDA Amine"
+  },
+  {
+    titre: "Les bavards",
+    categorie: "Discipline",
+    texte: "Ne bavardez pas durant les cours, notamment les cours de maths, car c'est dérangeant pour le prof et les élèves qui essayent d'écouter .",
+    auteur: "ABOUDA Amine"
+  },
 
   {
     titre: "Manger sans se ruiner",
