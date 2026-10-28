@@ -62,6 +62,12 @@ const FICHES = [
     texte: "Ne bavardez pas durant les cours, notamment les cours de maths, car c'est dérangeant pour le prof et les élèves qui essayent d'écouter .",
     auteur: "ABOUDA Amine"
   },
+  {
+    titre: "L'entraide",
+    categorie: "Études",
+    texte: "Il faut toujours aider les camarades en difficulté, on a pas forcément tous le meme niveau, et pour ceux qui nécessitent de l'aide, n'hésitez jamais à demander .",
+    auteur: "ABOUDA Amine"
+  },
 
   {
     titre: "Manger sans se ruiner",
