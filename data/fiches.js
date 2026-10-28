@@ -45,6 +45,21 @@ const FICHES = [
   },
 
   {
+    titre: "Révisions",
+    categorie: "Vie pratique",
+    texte: "Se rendre à la bibliothèque nous permet de mieux réviser.",
+    auteur: "Hatem Bouslama"
+  },
+
+  {
+    titre: "Nourriture",
+    categorie: "Bons plans",
+    texte: "Pensez toujours à avoir des tickets resto avec vous.",
+    auteur: "Hatem Bouslama"
+  },
+
+
+  {
     titre: "Le premier rang n'est pas un piège",
     categorie: "Études",
     texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
