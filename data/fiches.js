@@ -52,10 +52,10 @@ const FICHES = [
   },
 
   {
-    titre: "Arriver avant 8h30",
-    categorie: "Transport",
-    texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
-    auteur: "L'équipe pédagogique"
+    titre: "Titre de ma première fiche",
+    categorie: "Vie pratique",
+    texte: "Un conseil utile, en une ou deux phrases.",
+    auteur: "Amira"
   },
 
   {
@@ -81,9 +81,16 @@ const FICHES = [
 
   {
     titre: "Le premier rang n'est pas un piège",
-    categorie: "Études",
+    catégorie : "Etudes",
     texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
     auteur: "L'équipe pédagogique"
+},
+{
+    titre: "Les révisions collectifs",
+
+    categorie: "Études",
+    texte: "Toujours penser à réviser en groupe à la bibliotèque pendant la pause.",
+    auteur: "MALOUCHE Med Amine"
   },
   {
     titre: "Les absences",
