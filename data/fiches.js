@@ -31,27 +31,6 @@ const FICHES = [
   },
 
   {
-    titre: "La révision efficace",
-    categorie: "Études",
-    texte: "Chaque minute compte jusqu'à l'examen, apprenez à saisir l'opportunité du temps",
-    auteur: "Chagour Hedi"
-  },
-
-  {
-    titre: "Le marchand de jus",
-    categorie: "Bons plans",
-    texte: "Le goûter du matin",
-    auteur: "Chagour Hedi"
-  },
-
-  {
-    titre: "La commande méridienne",
-    categorie: "Vie pratique",
-    texte: "Commander vers 13h nous laisse le temps de bien réviser avant de manger et de reprendre les cours à 14h",
-    auteur: "Chagour Hedi"
-  },
-
-  {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
