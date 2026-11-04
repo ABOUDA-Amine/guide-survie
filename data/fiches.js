@@ -29,6 +29,19 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Marchand de juse",
+    categorie: "Bons planse",
+    texte: "Toujours penser à se rafraichir à 10h.",
+    auteur: "Chagour Hedi"
+  },
+
+  {
+    titre: "Faire du sporte",
+    categorie: "Vie pratiques",
+    texte: "Le sport est très important pour rester en bonne santé.",
+    auteur: "Chagour Hedi"
+  },
 
   {
     titre: "Le distributeur du deuxième",
