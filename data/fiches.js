@@ -37,6 +37,20 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
 
+ {
+    titre: "Covoiturage",
+    categorie: "Transport",
+    texte: "Toujours essayer de trouver une personne pour partager le transport",
+    auteur: "MALOUCHE Med Amine"
+  },
+
+ {
+    titre: "La vie d'étudiant",
+    categorie: "Bon plans",
+    texte: "Toujours pensé à entrer dans des clubs pour enrichir notre dossier",
+    auteur: "MALOUCHE Med Amine"
+  },
+
   {
     titre: "Arriver avant 8h30",
     categorie: "Transport",
