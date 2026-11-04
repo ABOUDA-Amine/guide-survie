@@ -30,7 +30,7 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
   {
-    titre: "Marchand de juse",
+    titre: "Marchand de jus",
     categorie: "Bons planse",
     texte: "Toujours penser à se rafraichir à 10h.",
     auteur: "Chagour Hedi"
@@ -40,6 +40,12 @@ const FICHES = [
     titre: "Faire du sporte",
     categorie: "Vie pratiques",
     texte: "Le sport est très important pour rester en bonne santé.",
+    auteur: "Chagour Hedi"
+  },
+  {
+    titre: "Révisions efficaces",
+    categorie: "Etudes",
+    texte: "Favoriser le travail en groupe pour une révision plus efficace.",
     auteur: "Chagour Hedi"
   },
 
