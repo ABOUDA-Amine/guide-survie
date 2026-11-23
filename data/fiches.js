@@ -29,6 +29,25 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Marchand de jus",
+    categorie: "Bons planse",
+    texte: "Toujours penser à se rafraichir à 10h.",
+    auteur: "Chagour Hedi"
+  },
+
+  {
+    titre: "Faire du sporte",
+    categorie: "Vie pratiques",
+    texte: "Le sport est très important pour rester en bonne santé.",
+    auteur: "Chagour Hedi"
+  },
+  {
+    titre: "Révisions efficaces",
+    categorie: "Etudes",
+    texte: "Favoriser le travail en groupe pour une révision plus efficace.",
+    auteur: "Chagour Hedi"
+  },
 
   {
     titre: "Le distributeur du deuxième",
@@ -52,10 +71,10 @@ const FICHES = [
   },
 
   {
-    titre: "Arriver avant 8h30",
-    categorie: "Transport",
-    texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
-    auteur: "L'équipe pédagogique"
+    titre: "Titre de ma première fiche",
+    categorie: "Vie pratique",
+    texte: "Un conseil utile, en une ou deux phrases.",
+    auteur: "Amira"
   },
 
   {
@@ -81,9 +100,16 @@ const FICHES = [
 
   {
     titre: "Le premier rang n'est pas un piège",
-    categorie: "Études",
+    catégorie : "Etudes",
     texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
     auteur: "L'équipe pédagogique"
+},
+{
+    titre: "Les révisions collectifs",
+
+    categorie: "Études",
+    texte: "Toujours penser à réviser en groupe à la bibliotèque pendant la pause.",
+    auteur: "MALOUCHE Med Amine"
   },
   {
     titre: "Les absences",
