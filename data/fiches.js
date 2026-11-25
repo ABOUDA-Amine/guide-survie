@@ -76,6 +76,46 @@ const FICHES = [
   },
 
   {
+    titre: "Le premier rang n'est pas un piège",
+    catégorie : "Etudes",
+    texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
+    auteur: "L'équipe pédagogique"
+},
+
+  {
+    titre: "Les absences",
+    categorie: "Discipline",
+    texte: "N'oubliez pas que vous disposez d'un nombre d'absence limité pour chaque matiere, evitez donc l'absentéisme .",
+    auteur: "ABOUDA Amine"
+},
+  {
+    titre: "Les bavards",
+    categorie: "Discipline",
+    texte: "Ne bavardez pas durant les cours, notamment les cours de maths, car c'est dérangeant pour le prof et les élèves qui essayent d'écouter .",
+    auteur: "ABOUDA Amine"
+},
+  {
+    titre: "L'entraide",
+    categorie: "Études",
+    texte: "Il faut toujours aider les camarades en difficulté, on a pas forcément tous le meme niveau, et pour ceux qui nécessitent de l'aide, n'hésitez jamais à demander .",
+    auteur: "ABOUDA Amine"
+},
+
+  {
+    titre: "Manger sans se ruiner",
+    categorie: "Bons plans",
+    texte: "Les sandwicheries de la rue derrière sont deux fois moins chères qu'en face du campus, à cinq minutes à pied.",
+    auteur: "L'équipe pédagogique"
+},
+
+  {
+    titre: "Voyages",
+    categorie: "Souvenirs",
+    texte: "Pensez  toujours à immortaliser vos moments lorsque vous partez en voyage mais faites le de manière equilibré, c'est-à-dire qu'il ne faut pas abuser.",
+    auteur: "Hatem Bouslama"
+  },
+
+  {
     titre: "Révisions",
     categorie: "Vie pratique",
     texte: "Se rendre à la bibliothèque nous permet de mieux réviser.",
@@ -96,37 +136,6 @@ const FICHES = [
     auteur: "Hatem Bouslama"
   },
 
-  {
-    titre: "Le premier rang n'est pas un piège",
-    catégorie : "Etudes",
-    texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
-    auteur: "L'équipe pédagogique"
-},
-  {
-    titre: "Les absences",
-    categorie: "Discipline",
-    texte: "N'oubliez pas que vous disposez d'un nombre d'absence limité pour chaque matiere, evitez donc l'absentéisme .",
-    auteur: "ABOUDA Amine"
-  },
-  {
-    titre: "Les bavards",
-    categorie: "Discipline",
-    texte: "Ne bavardez pas durant les cours, notamment les cours de maths, car c'est dérangeant pour le prof et les élèves qui essayent d'écouter .",
-    auteur: "ABOUDA Amine"
-  },
-  {
-    titre: "L'entraide",
-    categorie: "Études",
-    texte: "Il faut toujours aider les camarades en difficulté, on a pas forcément tous le meme niveau, et pour ceux qui nécessitent de l'aide, n'hésitez jamais à demander .",
-    auteur: "ABOUDA Amine"
-  },
-
-  {
-    titre: "Manger sans se ruiner",
-    categorie: "Bons plans",
-    texte: "Les sandwicheries de la rue derrière sont deux fois moins chères qu'en face du campus, à cinq minutes à pied.",
-    auteur: "L'équipe pédagogique"
-  },
 
   {
     titre: "Poser sa question tout de suite",
@@ -136,14 +145,14 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
-{
+  {
     titre: "Les addicts du ping pong",
     categorie: "Pause",
     texte: "N'oubliez pas l'heure en se faisant emporter par les parties de ping pong durant les 15min de recrées, c'est vraiment addictif.",
     auteur: "Abouda Amine-étudiant"
   },
 
- {
+  {
     titre: "Rakcha",
     categorie: "Repos",
     texte: "Il faut toujours penser à se reposer. Erte7 erte7 w taka",
