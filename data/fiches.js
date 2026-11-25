@@ -161,7 +161,13 @@ const FICHES = [
     categorie: "Les dangers de l'Ego",
     texte: "Abouda a toutt le temps raison",
     auteur: "Chagour Hedi-étudiant"
-  }, 
+  },
+  {
+    titre: "Le bonus de Tutorat",
+    categorie: "Etudes",
+    texte: "Il faut etre présent de maniere active à tous les cours de tutorat car c'est très utile; ca permet d'avoir un bonus dans la moyenne et ca permet aussi de s'améliorer",
+    auteur: "ABOUDA Amine-étudiant"
+  },  
  // ===== FIN DE VOS FICHES =====
 
 ];
