@@ -23,26 +23,32 @@
 
 const FICHES = [
 
-  {
+{
     titre: "La salle de travail du premier",
     categorie: "Études",
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
-  {
+{
+    titre: "Actualité gaming",
+    categorie: "Jeux vidéos",
+    texte: "GTA VI devra sortir plus tôt sur pc à cause des différents émulateurs et des fichiers .exe qui sont en train d'être testés.",
+    auteur: "Chagour Hedi"
+  },
+{
     titre: "Marchand de jus",
-    categorie: "Bons planse",
-    texte: "Toujours penser à se rafraichir à 10h.",
+    categorie: "Bons plans",
+    texte: "Toujours penser à se rafraîchir à 10h.",
     auteur: "Chagour Hedi"
   },
 
-  {
-    titre: "Faire du sporte",
+{
+    titre: "Faire du sport",
     categorie: "Vie pratiques",
     texte: "Le sport est très important pour rester en bonne santé.",
     auteur: "Chagour Hedi"
   },
-  {
+{
     titre: "Révisions efficaces",
     categorie: "Etudes",
     texte: "Favoriser le travail en groupe pour une révision plus efficace.",
