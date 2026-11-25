@@ -55,7 +55,12 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
     auteur: "L'équipe pédagogique"
   },
-
+{
+    titre: "Les révisions collectifs",
+    categorie: "Études",
+    texte: "Toujours penser à réviser en groupe à la bibliotèque pendant la pause.",
+    auteur: "MALOUCHE Med Amine"
+},
  {
     titre: "Covoiturage",
     categorie: "Transport",
@@ -68,13 +73,6 @@ const FICHES = [
     categorie: "Bon plans",
     texte: "Toujours pensé à entrer dans des clubs pour enrichir notre dossier",
     auteur: "MALOUCHE Med Amine"
-  },
-
-  {
-    titre: "Titre de ma première fiche",
-    categorie: "Vie pratique",
-    texte: "Un conseil utile, en une ou deux phrases.",
-    auteur: "Amira"
   },
 
   {
@@ -104,13 +102,6 @@ const FICHES = [
     texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
     auteur: "L'équipe pédagogique"
 },
-{
-    titre: "Les révisions collectifs",
-
-    categorie: "Études",
-    texte: "Toujours penser à réviser en groupe à la bibliotèque pendant la pause.",
-    auteur: "MALOUCHE Med Amine"
-  },
   {
     titre: "Les absences",
     categorie: "Discipline",
