@@ -58,7 +58,7 @@ const FICHES = [
 {
     titre: "La ponctualité",
     categorie: "Rigueur",
-    texte: "Réviser de manière continue pour être prêt le jour même",
+    texte: "Réviser de manière rigoureuse et sérieuse pour être prêt le jour de l'examen",
     auteur: "MALOUCHE Med Amine"
 },
 {
