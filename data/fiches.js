@@ -30,10 +30,9 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
 {
-    titre: "jeu du moment",
-    categorie: "jeux vidéos",
-    texte: "GTA VI devra sortir plus tôt sur pc à cause des différents émulateurs et des fichiers .exe qui sont en train d'être testés. Une bonne nouvelle pour les joueurs pc qui vont pouvoir 
-    profiter des fps contrairement aux joueurs playstation et Xbox qui sont limités à 30 fps.",
+    titre: "Actualité gaming",
+    categorie: "Jeux vidéos",
+    texte: "GTA VI devra sortir plus tôt sur pc à cause des différents émulateurs et des fichiers .exe qui sont en train d'être testés.",
     auteur: "Chagour Hedi"
   },
 {
