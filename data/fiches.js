@@ -164,8 +164,8 @@ const FICHES = [
   },
   {
     titre: "Le bonus de Tutorat",
-    categorie: "Etudes",
-    texte: "Il faut etre présent de maniere active à tous les cours de tutorat car c'est très utile; ca permet d'avoir un bonus dans la moyenne et ca permet aussi de s'améliorer",
+    categorie: "Amélioration de note",
+    texte: "Il faut être présent de maniere active à tous les cours de tutorat car c'est très utile; ça permet d'avoir un bonus dans la moyenne et ca permet aussi de s'améliorer",
     auteur: "ABOUDA Amine-étudiant"
   },  
  // ===== FIN DE VOS FICHES =====
