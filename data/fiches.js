@@ -111,7 +111,7 @@ const FICHES = [
   {
     titre: "Voyages",
     categorie: "Souvenirs",
-    texte: "Pensez  toujours à immortaliser vos moments lorsque vous partez en voyage.",
+    texte: "Pensez  toujours à immortaliser vos moments lorsque vous partez en voyage mais faites le de manière equilibré, c'est-à-dire qu'il ne faut pas abuser.",
     auteur: "Hatem Bouslama"
   },
 
