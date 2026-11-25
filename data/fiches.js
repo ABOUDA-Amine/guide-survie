@@ -56,6 +56,12 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
 {
+    titre: "La ponctualité",
+    categorie: "Rigueur",
+    texte: "Réviser de manière continue pour être prêt le jour même",
+    auteur: "MALOUCHE Med Amine"
+},
+{
     titre: "Les révisions collectifs",
     categorie: "Études",
     texte: "Toujours penser à réviser en groupe à la bibliotèque pendant la pause.",
